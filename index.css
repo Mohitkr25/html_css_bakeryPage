@@ -287,3 +287,8 @@
   width: 33%;
   margin: 20px auto;
 }
+@media (max-width: 990px) {
+  .home_row {
+    flex-direction: column;
+  }
+}
