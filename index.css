@@ -292,3 +292,19 @@
     flex-direction: column;
   }
 }
+.brading {
+  display: flex;
+  background: coral;
+  margin-right: 3rem;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 5px;
+  width: fit-content;
+  height: fit-content;
+  border: 3px solid black;
+  border-radius: 10px;
+}
+.brading h3 {
+  padding: 3px;
+  margin: 4px;
+}
